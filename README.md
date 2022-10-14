@@ -1,6 +1,7 @@
 - 👋嗨，我是Kevin
 - 👀我正在一家Ai数据服务商从事Android & web前端开发
-- 🌱我目前正在学习Kotlin & js
+- 🌱我目前正在学习Kotlin & js 
+- 💼目前正在做web端Ai数据标注业务 & 移动端数据采集业务
 - 📫我的邮箱：Kevin_Android@163.com
 
 <!---
